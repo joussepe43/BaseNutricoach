@@ -1107,7 +1107,7 @@ nutricoach_base:
     aliases: ["mont blanc blanco"]
 
 -name: Gorton’s Fish Fillets – Empanizados
-  portion_g: 108
+  portion_g: 108 (2 units)
   kcal: 240
   P: 10
   C: 23
