@@ -1105,3 +1105,15 @@ nutricoach_base:
     Na: 131
     Cf: 0
     aliases: ["mont blanc blanco"]
+
+-name: Gorton’s Fish Fillets – Empanizados
+  portion_g: 108
+  kcal: 240
+  P: 10
+  C: 23
+  G: 12
+  F: 1
+  Az: "3/1"
+  Na: 530
+  Cf: 0
+  aliases: ["fish fillets", "gortons fish", "filete pescado gortons", "fish fillet breaded", "Filetes de pescado PriceSmart"]
